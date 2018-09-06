@@ -31,6 +31,8 @@ namespace dbeckmann_1B1
                 (Convert.ToDecimal(txtSubtotal.Text)
                 - Convert.ToDecimal(txtDiscountamount.Text)).ToString("0.00");
 
+           
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
