@@ -113,6 +113,7 @@
             this.txtTotal.Size = new System.Drawing.Size(156, 20);
             this.txtTotal.TabIndex = 9;
             this.txtTotal.TabStop = false;
+            this.txtTotal.TextChanged += new System.EventHandler(this.txtTotal_TextChanged);
             // 
             // btnCalculate
             // 

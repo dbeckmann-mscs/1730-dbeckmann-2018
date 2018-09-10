@@ -39,5 +39,10 @@ namespace dbeckmann_1B1
         {
             this.Close();
         }
+
+        private void txtTotal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
