@@ -71,5 +71,10 @@ namespace dbeckman_1c1
             txtHotDogs.Focus(); 
         
         }
+
+        private void txtHotDogs_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
