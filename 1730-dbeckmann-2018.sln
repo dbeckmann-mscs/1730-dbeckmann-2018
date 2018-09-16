@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbeckmann 1d2", "dbeckmann 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbeckmann 1e1", "dbeckmann 1e1\dbeckmann 1e1.csproj", "{E119E313-1BC8-469D-BECA-7746FC64DFEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbeckmann 1f1", "dbeckmann 1f1\dbeckmann 1f1.csproj", "{D6B0AB19-30AC-49A4-A234-B8886936225F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E119E313-1BC8-469D-BECA-7746FC64DFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E119E313-1BC8-469D-BECA-7746FC64DFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E119E313-1BC8-469D-BECA-7746FC64DFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B0AB19-30AC-49A4-A234-B8886936225F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B0AB19-30AC-49A4-A234-B8886936225F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B0AB19-30AC-49A4-A234-B8886936225F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B0AB19-30AC-49A4-A234-B8886936225F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

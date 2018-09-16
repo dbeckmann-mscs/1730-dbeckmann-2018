@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19CFD63A-4B8D-4D66-B0C6-A8000ABADF6A}</ProjectGuid>
+    <ProjectGuid>{D6B0AB19-30AC-49A4-A234-B8886936225F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsFormsApp1</RootNamespace>
-    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <RootNamespace>dbeckmann_1f1</RootNamespace>
+    <AssemblyName>dbeckmann 1f1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,14 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmCurrency.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmCurrency.Designer.cs">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCurrency.resx">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +78,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Flags\Antigua-and-Barbuda-icon-dim.png" />
+    <Content Include="Flags\Antigua-and-Barbuda-icon.png" />
+    <Content Include="Flags\Barbados-Flag-icon-dim.png" />
+    <Content Include="Flags\Barbados-Flag-icon.png" />
+    <Content Include="Flags\Bhutan-Flag-icon-dim.png" />
+    <Content Include="Flags\Bhutan-Flag-icon.png" />
+    <Content Include="Flags\Capture.JPG" />
+    <Content Include="Flags\Swaziland-Flag-icon-dim.png" />
+    <Content Include="Flags\Swaziland-Flag-icon.png" />
+    <Content Include="Flags\United-States-Flag-icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

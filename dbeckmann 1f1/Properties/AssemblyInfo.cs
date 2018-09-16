@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("dbeckmann 1d1")]
+[assembly: AssemblyTitle("dbeckmann 1f1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("dbeckmann 1d1")]
+[assembly: AssemblyProduct("dbeckmann 1f1")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("38c45fcf-68e9-4e34-9f39-81b2888dde11")]
+[assembly: Guid("d6b0ab19-30ac-49a4-a234-b8886936225f")]
 
 // Version information for an assembly consists of the following four values:
 //

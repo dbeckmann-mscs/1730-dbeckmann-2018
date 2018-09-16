@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dbeckmann_1d1.Properties
+namespace dbeckmann_1f1.Properties
 {
 
 

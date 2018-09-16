@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace dbeckmann_1d1
+namespace dbeckmann_1f1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace dbeckmann_1d1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCalculate());
+            Application.Run(new frmCurrency());
         }
     }
 }
