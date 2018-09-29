@@ -72,6 +72,7 @@
             this.picAntigua.TabIndex = 0;
             this.picAntigua.TabStop = false;
             this.picAntigua.Visible = false;
+            this.picAntigua.Click += new System.EventHandler(this.picAntigua_Click);
             // 
             // picAntiguaDim
             // 

@@ -139,5 +139,10 @@ namespace dbeckmann_1f1
         {
             this.Close();
         }
+
+        private void picAntigua_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
