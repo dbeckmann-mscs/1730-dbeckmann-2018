@@ -76,6 +76,10 @@
             this.long2textBox = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.long1textBox = new System.Windows.Forms.TextBox();
+            this.Addbutton = new System.Windows.Forms.Button();
+            this.Minusbutton = new System.Windows.Forms.Button();
+            this.Multiplybutton = new System.Windows.Forms.Button();
+            this.Dividebutton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Input1textBox
@@ -86,6 +90,7 @@
             this.Input1textBox.TabIndex = 0;
             this.Input1textBox.Text = "0";
             this.Input1textBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.Input1textBox.TextChanged += new System.EventHandler(this.Input1textBox_TextChanged);
             // 
             // btnSetMin
             // 
@@ -115,6 +120,7 @@
             this.Input2textBox.TabIndex = 4;
             this.Input2textBox.Text = "0";
             this.Input2textBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.Input2textBox.TextChanged += new System.EventHandler(this.Input2textBox_TextChanged);
             // 
             // label2
             // 
@@ -578,11 +584,56 @@
             this.long1textBox.Text = "0";
             this.long1textBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
+            // Addbutton
+            // 
+            this.Addbutton.Location = new System.Drawing.Point(506, 89);
+            this.Addbutton.Name = "Addbutton";
+            this.Addbutton.Size = new System.Drawing.Size(20, 20);
+            this.Addbutton.TabIndex = 49;
+            this.Addbutton.Text = "+";
+            this.Addbutton.UseVisualStyleBackColor = true;
+            this.Addbutton.Click += new System.EventHandler(this.Addbutton_Click);
+            // 
+            // Minusbutton
+            // 
+            this.Minusbutton.Location = new System.Drawing.Point(532, 89);
+            this.Minusbutton.Name = "Minusbutton";
+            this.Minusbutton.Size = new System.Drawing.Size(20, 20);
+            this.Minusbutton.TabIndex = 50;
+            this.Minusbutton.Text = "-";
+            this.Minusbutton.UseVisualStyleBackColor = true;
+            this.Minusbutton.Click += new System.EventHandler(this.Minusbutton_Click);
+            // 
+            // Multiplybutton
+            // 
+            this.Multiplybutton.Location = new System.Drawing.Point(558, 90);
+            this.Multiplybutton.Name = "Multiplybutton";
+            this.Multiplybutton.Size = new System.Drawing.Size(20, 20);
+            this.Multiplybutton.TabIndex = 51;
+            this.Multiplybutton.Text = "*";
+            this.Multiplybutton.UseVisualStyleBackColor = true;
+            this.Multiplybutton.Click += new System.EventHandler(this.Multiplybutton_Click);
+            // 
+            // Dividebutton
+            // 
+            this.Dividebutton.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.Dividebutton.Location = new System.Drawing.Point(584, 90);
+            this.Dividebutton.Name = "Dividebutton";
+            this.Dividebutton.Size = new System.Drawing.Size(20, 20);
+            this.Dividebutton.TabIndex = 52;
+            this.Dividebutton.Text = "/";
+            this.Dividebutton.UseVisualStyleBackColor = true;
+            this.Dividebutton.Click += new System.EventHandler(this.Dividebutton_Click);
+            // 
             // frmNumType
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Dividebutton);
+            this.Controls.Add(this.Multiplybutton);
+            this.Controls.Add(this.Minusbutton);
+            this.Controls.Add(this.Addbutton);
             this.Controls.Add(this.long3textBox);
             this.Controls.Add(this.long2textBox);
             this.Controls.Add(this.label9);
@@ -688,6 +739,10 @@
         private System.Windows.Forms.TextBox long2textBox;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox long1textBox;
+        private System.Windows.Forms.Button Addbutton;
+        private System.Windows.Forms.Button Minusbutton;
+        private System.Windows.Forms.Button Multiplybutton;
+        private System.Windows.Forms.Button Dividebutton;
     }
 }
 
