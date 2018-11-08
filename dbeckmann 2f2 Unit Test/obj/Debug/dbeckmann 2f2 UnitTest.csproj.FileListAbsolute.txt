@@ -1,0 +1,34 @@
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\dbeckmann 2f2.exe
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\dbeckmann 2f2.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\dbeckmann 2f2.exe.config
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\obj\Debug\dbeckmann 2f2 UnitTest.csprojAssemblyReference.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\obj\Debug\dbeckmann 2f2 UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\obj\Debug\dbeckmann 2f2 UnitTest.csproj.CopyComplete
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\UnitTestProject1.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\UnitTestProject1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\dbeckmann 2f2.exe
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\dbeckmann 2f2.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\dbeckmann 2f2.exe.config
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\obj\Debug\dbeckmann 2f2 UnitTest.csprojAssemblyReference.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\obj\Debug\dbeckmann 2f2 UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\obj\Debug\dbeckmann 2f2 UnitTest.csproj.CopyComplete
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\obj\Debug\UnitTestProject1.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2f2 Unit Test\obj\Debug\UnitTestProject1.pdb
