@@ -1,0 +1,10 @@
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\bin\Debug\dbeckmann 2g1.exe.config
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\bin\Debug\dbeckmann 2g1.exe
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\bin\Debug\dbeckmann 2g1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann 2g1.csprojAssemblyReference.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann_2g1.Form1.resources
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann_2g1.Properties.Resources.resources
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann 2g1.csproj.GenerateResource.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann 2g1.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann 2g1.exe
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2g1\obj\Debug\dbeckmann 2g1.pdb

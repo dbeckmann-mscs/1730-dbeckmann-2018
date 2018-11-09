@@ -1,0 +1,18 @@
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.csprojAssemblyReference.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.AssemblyInfoInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.AssemblyInfo.cs
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.deps.json
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.runtimeconfig.json
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.runtimeconfig.dev.json
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann 2g1.exe
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann 2g1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\bin\Debug\netcoreapp2.1\dbeckmann 2g1.exe.config
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.csproj.CopyComplete
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann2g1UnitTest\obj\Debug\netcoreapp2.1\dbeckmann2g1UnitTest.pdb
