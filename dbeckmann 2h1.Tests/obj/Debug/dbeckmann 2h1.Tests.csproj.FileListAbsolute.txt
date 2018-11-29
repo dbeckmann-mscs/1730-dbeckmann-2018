@@ -1,0 +1,22 @@
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\dbeckmann 2h1.Tests.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\dbeckmann 2h1.Tests.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\dbeckmann 2h1.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\dbeckmann 2h1.pdb
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\dbeckmann 2h1.dll.config
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\obj\Debug\dbeckmann 2h1.Tests.csprojAssemblyReference.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\obj\Debug\dbeckmann 2h1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\obj\Debug\dbeckmann 2h1.Tests.csproj.CopyComplete
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\obj\Debug\dbeckmann 2h1.Tests.dll
+C:\Users\Dave\Dropbox\1_MSCS\1730 .NET (Swanson)\Visual Studio 2017\Projects\1730-dbeckmann-2018\dbeckmann 2h1.Tests\obj\Debug\dbeckmann 2h1.Tests.pdb
