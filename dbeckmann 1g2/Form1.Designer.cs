@@ -57,7 +57,7 @@
             this.label1A.Size = new System.Drawing.Size(42, 13);
             this.label1A.TabIndex = 0;
             this.label1A.Text = "label1A";
-            this.label1A.Click += new System.EventHandler(this.label1A_Click);
+            //this.label1A.Click += new System.EventHandler(this.label1A_Click);
             // 
             // label1B
             // 
@@ -137,7 +137,7 @@
             this.textBox1A.Name = "textBox1A";
             this.textBox1A.Size = new System.Drawing.Size(100, 20);
             this.textBox1A.TabIndex = 0;
-            this.textBox1A.TextChanged += new System.EventHandler(this.textBox1A_TextChanged);
+            //this.textBox1A.TextChanged += new System.EventHandler(this.textBox1A_TextChanged);
             // 
             // textBox1B
             // 

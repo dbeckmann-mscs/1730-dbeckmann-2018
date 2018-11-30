@@ -51,23 +51,17 @@ namespace dbeckmann_1g2
                 ).ToString("n2");
         }
 
-        private void textBox1A_TextChanged(object sender, EventArgs e)
-        {
-            label1A.Text = textBox1A.Text + textBox1B.Text;
+        //private void textBox1A_TextChanged(object sender, EventArgs e)
+        //{
+        //    label1A.Text = textBox1A.Text + textBox1B.Text;
 
-            label1A.Top = Convert.ToInt32("128)");
-            button1.Text = labeltwo;
-            Focus();
-            button1.tabindex;
-            textBox1A.Text = Convert.ToDecimal();
-            textBox1A.Text = 1 + Convert.ToDecimal(textBox1A.Text);
-            GroupBox;
-            button1.Text = 5;
-        }
-
-        private void label1A_Click(object sender, EventArgs e)
-        {
-            label1A.Text + label1B.Text 
+        //    label1A.Top = Convert.ToInt32("128)");
+        //    button1.Text = labeltwo;
+        //    Focus();
+        //    button1.tabindex;
+        //    textBox1A.Text = Convert.ToDecimal();
+        //    textBox1A.Text = 1 + Convert.ToDecimal(textBox1A.Text);
+        //    GroupBox;
+        //    button1.Text = 5;
         }
     }
-}

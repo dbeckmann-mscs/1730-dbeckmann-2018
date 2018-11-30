@@ -15,6 +15,12 @@ namespace dBeckmann_1g1
         private readonly object textBox1B;
         private object textBox1C;
         private object textBox1A;
+        private object textBox2A;
+        private object textBox2B;
+        private object textBox2C;
+        private object textBox3C;
+        private object textBox3A;
+        private object textBox3B;
 
         public Form1()
         {
@@ -56,5 +62,6 @@ namespace dBeckmann_1g1
                     Convert.ToDecimal(textBox3A.Text) / Convert.ToDecimal(textBox3C.Text)
                 ).ToString("n2");
         }
+
     }
 }

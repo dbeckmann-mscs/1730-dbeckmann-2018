@@ -24,7 +24,7 @@ namespace dbeckmann_2a1
             decimal DiscountAmount = (Subtotal * PercentDiscount);
             txtDiscountamount.Text = DiscountAmount.ToString("0.00");
 
-            decimal Total = Subtotal + DiscountAmount;
+            decimal Total = Subtotal - DiscountAmount;
             txtTotal.Text = Total.ToString("0.00");  
         }
 
